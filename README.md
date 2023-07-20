@@ -1,1 +1,2 @@
-# Quiz-App-using-JS-
+# SYNCINTERN_task2
+Quiz app
